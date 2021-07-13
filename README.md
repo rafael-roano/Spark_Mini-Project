@@ -56,7 +56,7 @@ Using Hortonworks Hadoop Sandbox is recommended. This sandbox is a pre-configure
 * Open HDP SSH (http://localhost:4200)
 * Execute Shell script (spark_job_submission.sh)
 
-[Results][3]: 
+[Results][3]
 
 [3]: https://docs.google.com/presentation/d/1eYTpEI1H2H6rsTcG0y2d8LTXxe5VLp28aSJA2VDGW0s/edit?usp=sharing
 
