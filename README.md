@@ -40,7 +40,7 @@ Using Hortonworks Hadoop Sandbox is recommended. This sandbox is a pre-configure
 
 **Files**
 
-1. Download Data source and Python script from https://github.com/rafael-roano/Spark_Mini-Project.git. These are:
+1. Download Data source and Python script from https://github.com/rafael-roano/rafael-roano-Spark_Mini-Project.git. These are:
     * data.csv
     * spark_autoinc.py
     * spark_job_submission.sh
@@ -56,7 +56,9 @@ Using Hortonworks Hadoop Sandbox is recommended. This sandbox is a pre-configure
 * Open HDP SSH (http://localhost:4200)
 * Execute Shell script (spark_job_submission.sh)
 
-Results: https://docs.google.com/presentation/d/1eYTpEI1H2H6rsTcG0y2d8LTXxe5VLp28aSJA2VDGW0s/edit?usp=sharing
+[Results][3]: 
+
+[3]: https://docs.google.com/presentation/d/1eYTpEI1H2H6rsTcG0y2d8LTXxe5VLp28aSJA2VDGW0s/edit?usp=sharing
 
 ## Authors
 
